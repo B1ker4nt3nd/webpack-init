@@ -1,5 +1,10 @@
 https://wweb.dev/blog/how-to-create-static-website-npm-scripts/
 
+### How to run
+
+1. `npm run build` build all. Create dist folder.
+1. `npm run watch` will listen to your changes, build to your dist folder. Also serve on port 3000(by default). But it will open automatically
+
 ### npm init
 
 npm init
